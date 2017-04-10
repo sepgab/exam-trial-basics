@@ -32,4 +32,4 @@ The application is accepted if:
 ## 5. Question time! (~15 mins) [2p]
 
 ### How can you generate a random number? [2p]
-#### Your answer: [add your answer here]
+#### Your answer: [import random at the beginning, and then random.randint(1,100) generates a random number between 1-100.]
